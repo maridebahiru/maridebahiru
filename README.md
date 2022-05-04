@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer enginering
 - 💞️ I’m looking to collaborate on full stalk development
-- 📫 How to reach me  .....
 
 <!---
 maridebahiru/maridebahiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
