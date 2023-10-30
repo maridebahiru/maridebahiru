@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maridebahiru
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning computer enginering
+- 👀 I’m Full Stack developer @ Afronex Tech Hub
 - 💞️ I’m looking to collaborate on full stalk development
 
 <!---
